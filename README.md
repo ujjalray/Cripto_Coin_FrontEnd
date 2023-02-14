@@ -14,7 +14,7 @@ Criptocoin is built with a modern tech stack, including JavaScript, Node.js, and
 
 # Getting Started #
 
-To get started with CryptoCoin, simply sign up for an account and start exploring the world of cryptocurrencies. Whether you're a seasoned trader or a beginner, this platform provides all the information you need to make informed decisions about buying, selling, and exchanging cryptocurrencies.
+To get started with CryptoCoin,start exploring the world of cryptocurrencies. Whether you're a seasoned trader or a beginner, this platform provides all the information you need to make informed decisions about buying, selling, and exchanging cryptocurrencies.
 
 # Support #
 For any questions or concerns, feel free to reach out to the Criptocoin team at [Rayujjal9679@gmail.com]. We are always happy to assist and provide support to our users.
